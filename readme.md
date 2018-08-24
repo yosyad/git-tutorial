@@ -1,4 +1,4 @@
 just a simple readme file
-
-add new line in merge1 branch!
+Edit from github editor.
+add new line in merge1 branch?!
 
